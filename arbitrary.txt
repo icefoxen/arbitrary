@@ -1,0 +1,7 @@
+Benchmarks.
+
+*Integer
+*Floating point
+Memory access
+Jump/branch prediction
+Function calls (with various arguments?)
